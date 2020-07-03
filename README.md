@@ -13,3 +13,5 @@ Open .vimrc file and type :PlugInstall
 Editor will look like in screen:
 
 ![alt text](https://github.com/AndreyZemskov/Flask/blob/master/Screens/VIM.PNG)
+
+Press F3/F4 to open the directory tree and tagbar menu.
