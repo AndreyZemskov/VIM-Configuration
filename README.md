@@ -13,4 +13,4 @@ Open .vimrc file and type :PlugInstall
 ## Open again VIM and check the result
 Editor will look like in screen:
 
-![alt text] (https://github.com/AndreyZemskov/Flask/blob/master/Screens/VIM.PNG)
+![alt text](https://github.com/AndreyZemskov/Flask/blob/master/Screens/VIM.PNG)
