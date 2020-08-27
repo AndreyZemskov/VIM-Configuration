@@ -6,6 +6,9 @@ $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent
 ### .vimrc
 Download .vimrc file to your home directory;
 
+### Make sure that git installed on your system
+Otherwise, a "PlugInstall not an editor" error will be thrown;
+
 ### Plagin Install
 Open .vimrc file and type :PlugInstall
 
